@@ -1,7 +1,7 @@
 function Header() {
   return (
     <header>
-      <h1>Test Header</h1>
+      <h1>Test Header Component</h1>
     </header>
   );
 }
